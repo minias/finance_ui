@@ -1,6 +1,15 @@
 # finance_ui
 
-finance_ui
+## UI
+
+[<img src="./docs/page1-1.jpg" width="200" alt="page1-1"/>](page1-1.png)
+[<img src="./docs/page1-2.jpg" width="200" alt="page1-2"/>](page1-2.png)
+[<img src="./docs/page2.jpg" width="200"   alt="page2"/>](page1-1.png)
+[<img src="./docs/page3.jpg" width="200"   alt="page3"/>](page1-2.png)
+[<img src="./docs/page4.jpg" width="200"   alt="page4"/>](page1-1.png)
+[<img src="./docs/page5.jpg" width="200"   alt="page5"/>](page1-2.png)
+
+## information structure
 
 ```sh
 finance_ui/
